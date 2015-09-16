@@ -1,11 +1,11 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太上靈寶朝天謝罪法懺
-#+DATE: 2015-08-28 23:40:29
+#+DATE: 2015-08-28 23:40:42
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS YP-C
 #+PROPERTY: LASTPB  <md:KR5a0190_HFL_002-015b>
 #+PROPERTY: JUAN 3
-<md:KR5a0190_HFL_003-001a>¶<pb:KR5a0190_CK-KZ_03p001a>
+<md:KR5a0190_HFL_003-001a>¶<pb:KR5a0190_CK-KZ_03p001a><pb:KR5a0190_CK-KZ_03p001a>
 太上靈寶朝天謝罪法懺卷三¶
 爾時
 元始上帝在無上大羅天中玉京金闕¶之內坐天寶妙臺與

@@ -1,8 +1,8 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太上靈寶朝天謝罪法懺
-#+DATE: 2015-08-28 23:40:29
+#+DATE: 2015-08-28 23:40:42
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS YP-C
 #+PROPERTY: LASTPB  <md:KR5a0190_HFL_001-013b>
 #+PROPERTY: JUAN 2
 ¶<pb:KR5a0190_CK-KZ_01p008b>
@@ -16,6 +16,7 @@
 　福我聖王  寶祚無疆  天淸地靈  萬字輝光¶¶¶¶
 
 太上靈寶朝天謝罪法懺卷一終
+<pb:KR5a0190_CK-KZ_02p001a>
 <pb:KR5a0190_CK-KZ_02p001a>
 太上靈寶朝天謝罪法懴卷¶¶¶¶¶¶<md:KR5a0190_HFL_002-001a>¶二¶
 爾時

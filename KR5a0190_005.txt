@@ -1,11 +1,11 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 太上靈寶朝天謝罪法懺
-#+DATE: 2015-08-28 23:40:29
+#+DATE: 2015-08-28 23:40:42
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS YP-C
 #+PROPERTY: LASTPB  <md:KR5a0190_HFL_004-015b>
 #+PROPERTY: JUAN 5
-<md:KR5a0190_HFL_005-001a>¶<pb:KR5a0190_CK-KZ_05p001a>
+<md:KR5a0190_HFL_005-001a>¶<pb:KR5a0190_CK-KZ_05p001a><pb:KR5a0190_CK-KZ_05p001a>
 太上靈寶朝天謝罪法懺卷五¶
 爾時
 金闕大聖元始上帝在九淸妙境五雲¶天宮御寶玉座大會羣
