@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 太上靈寶朝天謝罪法懺
-#+DATE: 2015-08-28 23:40:29
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:40:14.781606
+#+TITLE: 太上靈寶朝天謝罪大懺
+#+PROPERTY: DZID  DZ0189
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，3—463 十卷 洞真部威儀類
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
